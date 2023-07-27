@@ -12,7 +12,7 @@ This is a project that aims to build a hybrid model for predicting stock prices 
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Chenzhang0329/StockPrice-Hybrid-Model-.git`
+1. Clone the repository: `https://github.com/HauwaUmar/Stock-Price-Prediction-Hybrid-Model.git`
 2. Install the required packages
 3. Open the Jupyter Notebook file `Final_Assignment_Main_Good_copy (1).ipynb` in your IDE.
 
